@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Calque_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 640 480" style="enable-background:new 0 0 640 480;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F33535;}
+	.st2{fill:none;}
+	.st3{font-family:'BritannicBold';}
+	.st4{font-size:160px;}
+	.st5{font-family:'Stencil';}
+	.st6{font-size:144px;}
+	.st7{font-family:'CooperBlack';}
+	.st8{font-size:80px;}
+</style>
+<g>
+	<path class="st0" d="M89.5,475c-2.5,0-4.5-2-4.5-4.5V9.5C85,7,87,5,89.5,5h461c2.5,0,4.5,2,4.5,4.5v461c0,2.5-2,4.5-4.5,4.5H89.5z"
+		/>
+	<path class="st1" d="M550,10v460H90V10H550 M550.5,0h-461C84.3,0,80,4.3,80,9.5v461c0,5.2,4.3,9.5,9.5,9.5h461
+		c5.2,0,9.5-4.3,9.5-9.5V9.5C560,4.3,555.7,0,550.5,0L550.5,0z"/>
+</g>
+<rect x="140" y="60" class="st2" width="360" height="120"/>
+<text transform="matrix(1 0 0 1 173.5156 168.3618)" class="st3 st4">PUB</text>
+<path d="M490,260H150c-5.5,0-10-4.5-10-10v-20c0-5.5,4.5-10,10-10h340c5.5,0,10,4.5,10,10v20C500,255.5,495.5,260,490,260z"/>
+<rect x="140" y="300" class="st2" width="360" height="120"/>
+<text transform="matrix(1 0 0 1 142.6719 396.0469)" class="st5 st6">Cars</text>
+<rect x="254.8" y="213" class="st2" width="130.5" height="54"/>
+<text transform="matrix(1 0 0 1 254.75 266.3984)" class="st0 st7 st8">ON</text>
+</svg>

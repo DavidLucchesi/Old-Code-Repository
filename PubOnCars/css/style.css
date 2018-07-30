@@ -1,0 +1,79 @@
+body {
+	margin: 0;
+	}
+
+header {
+	background-image:linear-gradient(to right,white, #F33535);
+	position: fixed;
+	width: 100%;
+	padding: 1% 2%;
+	box-sizing: border-box;
+	display: table;
+	text-align: center;
+	}
+	
+a {
+	color : #29252C;
+	text-decoration:none;
+}
+a:hover {
+	color: #33425B;
+}	
+  
+.navlogo {
+	float: left;
+	display: block;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#logo{
+	width: 180px;
+    max-width: 180px;
+    height: 100px;
+}
+
+.menu {
+	float: right;
+	height: 100%;
+	margin: 30px 0px;
+	display: inline-block;
+	vertical-align: middle;
+}
+	  
+ul{
+    display: block;
+	margin: 0;
+	padding: 0;
+	
+}
+ul li{
+    display: inline;
+	margin: 10px 10px;
+    font-size: 24px;
+	text-transform: uppercase;
+	font-family: Fjalla	;
+	
+}
+
+.mainscreen {
+	
+}
+
+.centraltext {
+	padding-top:142px;
+	width:100%;
+	height:100%;
+}
+
+#photo {
+		width:100%;
+}
+
+footer{
+	text-align:center;
+	font-family:Droid;
+}
+
+@font-face { font-family: Droid;   src: url('fonts/Droid_Sans/DroidSans.ttf');  } 
+@font-face { font-family: Fjalla;   src: url('fonts/Fjalla_One/FjallaOne-Regular.ttf');  } 
